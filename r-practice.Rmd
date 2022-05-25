@@ -18,13 +18,10 @@ The data files analyzed in this project are the scripts of the original StarWars
 
 The focus of the questions will be on the main characters. Specifically Luke and Vader and the others to a lesser degree.
 
-### Question 1
+### Question
 
 Is there a similar distribution of line length between characters? Are some more prone to long lines than others?
 
-### Question 2
-
-Do certain characters tend to say more as the story progresses? Or is line count consistent across movies?
 
 ```{r imports}
 # Importing Scripts
