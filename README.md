@@ -4,37 +4,32 @@ First time coding in R. This is a step in my exploration of Data science.
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The purpose of this project was to explore the subject of data science. Specifically I began to learn to code in R.
 
-{Provide a description of the data set that you are analyzing. Include the link of where you obtained the data.}
+The data I analyzed were the scripts for the original StarWars trilogy. They are text files with three fields: an index, character, and dialogue.
 
-{Describe your purpose for writing this software to analyze the data.}
+The software I wrote is an exploration of R. I learned to import data, preform mathematical operations and display graphs.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6zS37COww84)
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+The question I asked was about the length of line spoken by characters. I wanted to know if lines tended to be long or short and by how much. Do certain characters deviate from the norm?
+
+The Result is that characters tend to have the same distribution of line length. They deliver mostly short lines with decreasing numbers lines as length increased.
+This held true for both good and bad characters.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used RStudio as my development environment.
+Code written in R.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Youtube Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug&t=6331s)
+- [Web Site NameR Documentation](https://www.rdocumentation.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I need much more practice in R
+- I want to learn to more effectively interact with .txt files
